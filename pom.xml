@@ -41,6 +41,12 @@
             <artifactId>commons-csv</artifactId>
             <version>1.8</version> <!-- This version is known to be available -->
         </dependency>
+        <!-- Apache POI for working with Excel files -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>5.2.3</version> <!-- Latest version -->
+        </dependency>
 
 
         <dependency>
